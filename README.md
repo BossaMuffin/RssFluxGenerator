@@ -1,4 +1,5 @@
 # RssFluxGenerator
+Old and simple RSS generator, for little website post system - Created in 2015, from scratch. 
 RSS generator from the table clustering the website articles in the DB 
 
 For each call, the index.php file picks up the website articles in the DB, on the table named "coz_articles_fr". Then, each article is mapped to be write in the file named flux_rss.xml (http://your-website.com/sources/RSS/flux_rss.xml for example).
