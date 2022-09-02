@@ -1,0 +1,23 @@
+<!--
+Exemple de page générée par index.php
+-->
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Comozone</title>
+<link>http://www.comozone.com</link>
+<description>Les news de l'agence Comozone</description>
+
+<item><titre>Article publié : Article 2</titre>
+<link>http://www.comozone.com/fr-articles.php</link>
+<guid >http://www.comozone.com/fr-articles.php#Article 2</guid>
+<description>Bla bla 2 ....</description>
+<pubDate>0000-00-00</pubDate>
+
+<item><titre>Article publié : Article 1</titre>
+<link>http://www.comozone.com/fr-articles.php</link>
+<guid >http://www.comozone.com/fr-articles.php#Article 1</guid>
+<description>Bla bla 1 ....</description>
+<pubDate>2015-10-30</pubDate>
+
+</channel>
